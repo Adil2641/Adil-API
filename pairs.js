@@ -38,5 +38,5 @@
    {
     "boy": "https://i.postimg.cc/vBNvJkMY/d933bc5b36663049926c48017db28af0.jpg",
     "girl": "https://i.postimg.cc/jjRvPyZw/d176006c1e9acc249f7036a961afbc74.jpg"
-  },
+  }
 ]
